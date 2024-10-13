@@ -4,4 +4,4 @@ Welcome to my GitHub profile! Here you'll find some of my projects and repositor
 
 ## About Me
 
-- 📧 Email: [devstipan.ecim@gmail.com](mailto:devstipan.ecim@gmail.com)
+- 📧 Email: [stipan.ecim@gmail.com](mailto:devstipan.ecim@gmail.com)
