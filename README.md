@@ -1,4 +1,4 @@
-# Hello, I'm Stipan Ecim! 👋
+#  SteeP
 
 Welcome to my GitHub profile! Here you'll find some of my projects and repositories.
 
